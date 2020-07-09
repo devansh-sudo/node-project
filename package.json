@@ -1,0 +1,14 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "Learning node js",
+  "main": "function.js",
+  "scripts": {
+    "dev": "nodemon function.js"
+  },
+  "author": "Deva",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
